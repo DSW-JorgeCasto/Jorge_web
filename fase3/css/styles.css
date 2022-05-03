@@ -42,3 +42,13 @@ aside {
   background-color: white;
   
 }
+
+footer img{
+  width: 30px;
+  
+}
+
+footer img:hover{
+  width: 35px;
+  
+}

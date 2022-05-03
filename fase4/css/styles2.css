@@ -191,3 +191,13 @@ ul li {
 list-style-type: none;
 color: #000000;
 }
+
+footer img{
+  width: 30px;
+  
+}
+
+footer img:hover{
+  width: 35px;
+  
+}
